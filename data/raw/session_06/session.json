@@ -1,0 +1,29 @@
+{
+  "session": 6,
+  "seed": 1006,
+  "script_version": "1.1",
+  "started_at": "2026-09-26T19:27:02.287-03:00",
+  "finished_at": "2026-09-26T19:27:57.828-03:00",
+  "aborted": false,
+  "trials_planned": 30,
+  "trials_completed": 30,
+  "screen_px": [
+    2560,
+    1080
+  ],
+  "display_scale": 1.0,
+  "distance_css_px": 300.0,
+  "distance_px": 300.0,
+  "sizes_css_px": {
+    "small": 12,
+    "medium": 24,
+    "large": 44
+  },
+  "home_diameter_css_px": 40,
+  "mouse": {
+    "pointer_speed": 10,
+    "enhance_pointer_precision": true
+  },
+  "python": "3.12.10",
+  "os": "Windows-11-10.0.26200-SP0"
+}
