@@ -36,3 +36,7 @@ Series columns: `t` (seconds since target onset), `x`, `y` (pixels).
 - Notebook: [03_pointing_classification.ipynb](03_pointing_classification.ipynb), [open in Colab](https://colab.research.google.com/github/alangnclvs/mouse-pointing-tsc/blob/main/03_pointing_classification.ipynb)
 - Rebuild train/test from raw: `python 02_build_dataset.py`
 - Collect a session: `python 01_collect_sessions.py --session N`
+
+## Report
+
+[04_final_report.pdf](04_final_report.pdf) (in Portuguese): problem, data collection, preprocessing, experimental protocol, results and limitations.
